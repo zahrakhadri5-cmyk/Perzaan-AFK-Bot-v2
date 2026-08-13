@@ -1,13 +1,13 @@
 {
-  "name": "AFK Bot",
+  "name": "AFK Bot Imtox",
   "bot-account": {
     "username": "PerzaanLive",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "example.aternos.me",
-    "port": 75375,
+    "ip": "PORTSHOEARTSMP.aternos.me",
+    "port": 27425,
     "version": "1.21.1"
   },
   "position": {
